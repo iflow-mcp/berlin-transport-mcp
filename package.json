@@ -1,6 +1,6 @@
 {
   "name": "@iflow-mcp/berlin-transport-mcp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "bin": {
     "berlin-transport-mcp": "./bin/berlin-transport-mcp.js"
   },
