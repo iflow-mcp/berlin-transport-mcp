@@ -1,9 +1,14 @@
 {
   "name": "@iflow-mcp/berlin-transport-mcp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": {
     "berlin-transport-mcp": "./bin/berlin-transport-mcp.js"
   },
+  "files": [
+    "bin/",
+    "dist/",
+    "README.md"
+  ],
 
   "scripts": {
     "build": "tsc",
